@@ -1,7 +1,7 @@
 terraform-docker
 ================
 Docker container containing terraform. 
-This image is based on hashicorps (terraform image)[https://hub.docker.com/r/hashicorp/terraform/], with the entrypoint removed.
+This image is based on hashicorps [terraform image](https://hub.docker.com/r/hashicorp/terraform/):light, with the entrypoint removed.
 It is used for jenkins deployments where execution of docker run and terraform xxx don't hapen at the same time
 
 
