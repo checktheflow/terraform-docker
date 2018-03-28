@@ -1,2 +1,2 @@
-FROM hashicorp/terraform:light
+FROM hashicorp/terraform:latest
 ENTRYPOINT []
